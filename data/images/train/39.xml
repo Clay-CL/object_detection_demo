@@ -1,26 +1,38 @@
 <annotation>
-	<folder>images</folder>
+	<folder>resized-imgs</folder>
 	<filename>39.jpg</filename>
-	<path>C:\Users\DavidJSurya\AppData\Local\Programs\Python\Python37\Lib\site-packages\tensorflow\models\images\39.jpg</path>
+	<path>D:\traffic-signs-object-detection\RAW_DATA\resized-imgs\39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>23</width>
-		<height>23</height>
+		<width>300</width>
+		<height>300</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>20 km speed</name>
+		<name>20 speed</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>1</xmin>
-			<ymin>1</ymin>
-			<xmax>22</xmax>
-			<ymax>22</ymax>
+			<xmin>7</xmin>
+			<ymin>46</ymin>
+			<xmax>43</xmax>
+			<ymax>100</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>20 speed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>76</ymin>
+			<xmax>293</xmax>
+			<ymax>99</ymax>
 		</bndbox>
 	</object>
 </annotation>

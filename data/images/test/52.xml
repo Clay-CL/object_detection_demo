@@ -1,0 +1,26 @@
+<annotation>
+	<folder>resized-imgs</folder>
+	<filename>52.jpg</filename>
+	<path>D:\traffic-signs-object-detection\RAW_DATA\resized-imgs\52.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>70 speed</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>202</xmin>
+			<ymin>23</ymin>
+			<xmax>230</xmax>
+			<ymax>73</ymax>
+		</bndbox>
+	</object>
+</annotation>
