@@ -1,0 +1,26 @@
+<annotation>
+	<folder>images</folder>
+	<filename>125.jpg</filename>
+	<path>C:\Users\DavidJSurya\AppData\Local\Programs\Python\Python37\Lib\site-packages\tensorflow\models\images\125.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>48</width>
+		<height>52</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>20 km speed</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1</ymin>
+			<xmax>48</xmax>
+			<ymax>51</ymax>
+		</bndbox>
+	</object>
+</annotation>
